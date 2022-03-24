@@ -60,9 +60,9 @@ Pearl, Matthew. [_The Lady in the Basement_](http://www.fivechapters.com/2012/th
 
 Eliot, Charles. "[The New Education](http://www.theatlantic.com/magazine/archive/1869/02/the-new-education/309049/)." _The Atlantic Monthly_, February 1869, 203–20.
 
-Rogers, William Barton, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Scope and Plan of the School of Industrial Science of the Massachusetts Institute of Technology." (PDF - 5.8MB)](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=ca%2009002585&searchType=1&permalink=y) 1864.
+Rogers, William Barton, et al. ["Scope and Plan of the School of Industrial Science of the Massachusetts Institute of Technology." (PDF - 5.8MB)](https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=ca%2009002585&searchType=1&permalink=y) 1864.
 
-Senate and House of Representatives of Massachusetts. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Acts and Resolves of the General Court Relating to the Massachusetts Institute of Technology." (PDF - 4.2MB)](https://corporation.mit.edu/sites/default/files/images/charter.pdf) _Acts of 1861_, Chapter 183.
+Senate and House of Representatives of Massachusetts. ["Acts and Resolves of the General Court Relating to the Massachusetts Institute of Technology." (PDF - 4.2MB)](https://corporation.mit.edu/sites/default/files/images/charter.pdf) _Acts of 1861_, Chapter 183.
 
 Rogers, Emma Savage. [_Life and Letters of William Barton Rogers_](https://www.nature.com/articles/056124b0). University of Michigan Library, 1896. (_Students may want to focus on the sections related to the founding and early years of MIT_)
 
@@ -89,7 +89,7 @@ Noble, David. Chapter 1 in _America By Design: Science, Technology, and the Rise
 
 [MIT in 150 Objects](http://museum.mit.edu/150). There are 150 objects organized into 10 thematic sections. You should skim them all but for your reflection paper, please identify one object from each theme that intrigues you.
 
-Shuh, John Hennigar. "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[50 Ways to look at a Big Mac Box](http://www.allaboutshoes.ca/en/chronicles/activity02_50_ways.php)" from "Teaching Yourself to Teach With Objects." _Journal of Education_ 7, no. 4 (1982): 15.
+Shuh, John Hennigar. "[50 Ways to look at a Big Mac Box](http://www.allaboutshoes.ca/en/chronicles/activity02_50_ways.php)" from "Teaching Yourself to Teach With Objects." _Journal of Education_ 7, no. 4 (1982): 15.
 
 
 {{< tdclose >}}
@@ -106,7 +106,7 @@ Shuh, John Hennigar. "![This resource may not render correctly in a screen reade
 
 \[KAI\] Mergers and Acquisitions, pp. 51–77.
 
-Pritchett, Henry. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Harvard-Technology Alliance." (PDF - 10.1MB)](http://libraries.mit.edu/archives/mithistory/presidents-reports/1905.pdf) _Bulletin of the Massachusetts Institute of Technology: Report of the President and Treasurer_ 41, no. 2 (1906): 13–23.
+Pritchett, Henry. ["Harvard-Technology Alliance." (PDF - 10.1MB)](http://libraries.mit.edu/archives/mithistory/presidents-reports/1905.pdf) _Bulletin of the Massachusetts Institute of Technology: Report of the President and Treasurer_ 41, no. 2 (1906): 13–23.
 
 ### Additional Readings and Viewings
 
@@ -147,7 +147,7 @@ Excerpts from Chapter 1 in _Technology's War Record_. Alumni Committee of MIT, 1
 
 "Progress on the New Buildings".In _The Technology Review_ November 1914: 539–42.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Status of the New Buildings." (PDF - 3.0MB)](http://files.technologyreview.com/magazine-archive/1915/MIT-Technology-Review-1915-11-sample.pdf) _Technology Review_ 17 (November 1915): 559–64.
+["Status of the New Buildings." (PDF - 3.0MB)](http://files.technologyreview.com/magazine-archive/1915/MIT-Technology-Review-1915-11-sample.pdf) _Technology Review_ 17 (November 1915): 559–64.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262160025) Prescott, Samuel C. "Richard Cockburn Maclaurin - Sixth President," "The New Technology," and "The Last Years in Boston." In _When MIT Was Boston Tech: 1861–1916_. MIT Press, 1954. ISBN: 9780262160025.
 
@@ -240,7 +240,7 @@ Land, Edwin H. "[Generation of Greatness: The Idea of a University in an Age of 
 
 Hughes, Thomas. "MIT as System Builder: SAGE." In _Rescuing Prometheus: Four Monumental Projects that Changed the Modern World_. Vintage, 2000. ISBN: 9780679739388.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Report of the Committee on Educational Survey." (PDF - 8.2MB)](https://facultygovernance.mit.edu/sites/default/files/reports/1949-12_Report_of_the_Committee_on_Educational_Survey.pdf) _Report to the Faculty of the Massachusetts Institute of Technology_. The Technology Press, 1949.
+["Report of the Committee on Educational Survey." (PDF - 8.2MB)](https://facultygovernance.mit.edu/sites/default/files/reports/1949-12_Report_of_the_Committee_on_Educational_Survey.pdf) _Report to the Faculty of the Massachusetts Institute of Technology_. The Technology Press, 1949.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262026291) Beranek, Leo. "MIT, Teaching, Writing, AT&T, and Traveling." In _Riding the Waves: A Life in Sound, Science, and Industry_. MIT Press, 2008. ISBN: 9780262026291.
 
@@ -298,11 +298,11 @@ Leacock, Richard. [_November Actions_](http://museum.mit.edu/150/94). Film, 1969
 \*_Note: The MIT Museum is restoring Leacock's unfinished documentary_ November Actions_. Students in the class watched a preliminary version of this film, which is in the process of being restored.  
 _
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_The Tech_, May 24, 1960. (PDF - 2.4MB)](http://tech.mit.edu/V80/PDF/V80-N25.pdf)
+[_The Tech_, May 24, 1960. (PDF - 2.4MB)](http://tech.mit.edu/V80/PDF/V80-N25.pdf)
 
-_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[_The Tech_, November 7, 1969. (PDF - 2.0MB)](http://tech.mit.edu/V89/PDF/V89-N43.pdf)
+__[_The Tech_, November 7, 1969. (PDF - 2.0MB)](http://tech.mit.edu/V89/PDF/V89-N43.pdf)
 
-Schwartz, Bruce. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Painting MIT Roses: The Public Relations Office." (PDF 1.9MB)](http://tech.mit.edu/V89/PDF/V89-N47.pdf) _The Tech_, November 25, 1969, pp. 4 and 7.
+Schwartz, Bruce. ["Painting MIT Roses: The Public Relations Office." (PDF 1.9MB)](http://tech.mit.edu/V89/PDF/V89-N47.pdf) _The Tech_, November 25, 1969, pp. 4 and 7.
 
 ### Additional Readings and Viewings
 
@@ -387,7 +387,7 @@ Brooks, Rodney. "Planetary Ambassadors." _Flesh and Machines: How Robots Will Ch
 
 ### Required Readings and Viewings
 
-Abelson, Harold, et al. "Questions for the MIT Community." ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Report to the President: MIT and the Prosecution of Aaron Swartz_. (PDF - 5.0MB)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf) July 26, 2013.
+Abelson, Harold, et al. "Questions for the MIT Community." [_Report to the President: MIT and the Prosecution of Aaron Swartz_. (PDF - 5.0MB)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf) July 26, 2013.
 
 Roberts, Edward, and Charles Eesley. "[Entrepreneurial Impact: The Role of MIT](http://www.kauffman.org/what-we-do/research/2009/08/entrepreneurial-impact-the-role-of-mit)." 2009.
 
